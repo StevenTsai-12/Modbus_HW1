@@ -1,0 +1,35 @@
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\bin\Debug\MODBUS_teaching.exe.config
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\bin\Debug\MODBUS_teaching.exe
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\bin\Debug\MODBUS_teaching.pdb
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\bin\Debug\Modbus_Connect.dll
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.AssemblyReference.cache
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.Form1.resources
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.Properties.Resources.resources
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.GenerateResource.cache
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.CoreCompileInputs.cache
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.exe
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.pdb
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_t.F3F0876E.Up2Date
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\bin\Debug\MODBUS_teaching.exe.config
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\bin\Debug\MODBUS_teaching.exe
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\bin\Debug\MODBUS_teaching.pdb
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\bin\Debug\Modbus_Connect.dll
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.AssemblyReference.cache
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.Form1.resources
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.Properties.Resources.resources
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.GenerateResource.cache
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.CoreCompileInputs.cache
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.CopyComplete
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.exe
+D:\交接用\交接\Program\MODBUS_teaching\MODBUS_teaching\obj\Debug\MODBUS_teaching.pdb
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\bin\Debug\MODBUS_teaching.exe.config
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\bin\Debug\MODBUS_teaching.exe
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\bin\Debug\MODBUS_teaching.pdb
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.AssemblyReference.cache
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.Form1.resources
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.Properties.Resources.resources
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.GenerateResource.cache
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.CoreCompileInputs.cache
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.csproj.CopyComplete
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.exe
+C:\Users\steve\Desktop\0815\Program\MODBUS_teaching_0815\MODBUS_teaching\obj\Debug\MODBUS_teaching.pdb

@@ -1,0 +1,18 @@
+D:\Thesis_Reference\Main\A2-Servo_motor\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+D:\Thesis_Reference\Main\A2-Servo_motor\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+D:\Thesis_Reference\Main\A2-Servo_motor\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.dll
+D:\Thesis_Reference\Main\A2-Servo_motor\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.pdb
+D:\Thesis_Reference\Main\A2-Servo_motor\Modbus_Connect.dll
+D:\Thesis_Reference\Main\A2-Servo_motor\Modbus_Connect.pdb
+D:\Thesis_Reference\Main\MODBUS\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+D:\Thesis_Reference\Main\MODBUS\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+D:\Thesis_Reference\Main\MODBUS\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.dll
+D:\Thesis_Reference\Main\MODBUS\Modbus+Connect_0529\Modbus_Connect_0514\obj\Debug\Modbus_Connect.pdb
+D:\Thesis_Reference\Main\MODBUS\Modbus_Connect.dll
+D:\Thesis_Reference\Main\MODBUS\Modbus_Connect.pdb
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\Modbus_Connect_0514\obj\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\Modbus_Connect_0514\obj\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\Modbus_Connect_0514\obj\Debug\Modbus_Connect.dll
+D:\Thesis_Reference\Main\教接用\C# MODBUS\MODBUS_teaching\Modbus_Connect_0514\obj\Debug\Modbus_Connect.pdb
+D:\Thesis_Reference\Main\教接用\C# MODBUS\Modbus_Connect.dll
+D:\Thesis_Reference\Main\教接用\C# MODBUS\Modbus_Connect.pdb

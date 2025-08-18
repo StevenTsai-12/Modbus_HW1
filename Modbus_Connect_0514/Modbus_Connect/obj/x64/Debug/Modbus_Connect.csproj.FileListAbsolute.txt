@@ -1,0 +1,12 @@
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.dll
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.pdb
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect.dll
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect.pdb
+C:\Users\sam01\Desktop\0505\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+C:\Users\sam01\Desktop\0505\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+C:\Users\sam01\Desktop\0505\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.dll
+C:\Users\sam01\Desktop\0505\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\x64\Debug\Modbus_Connect.pdb
+C:\Users\sam01\Desktop\0505\Modbus_Connect\Modbus_Connect.dll
+C:\Users\sam01\Desktop\0505\Modbus_Connect\Modbus_Connect.pdb

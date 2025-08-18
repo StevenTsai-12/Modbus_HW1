@@ -1,0 +1,26 @@
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.dll
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.pdb
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect.dll
+C:\Users\lex.chen\Desktop\Modbus_Connect\Modbus_Connect.pdb
+C:\Users\lex.chen\Desktop\0508modbus\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+C:\Users\lex.chen\Desktop\0508modbus\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+C:\Users\lex.chen\Desktop\0508modbus\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.dll
+C:\Users\lex.chen\Desktop\0508modbus\Modbus_Connect\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.pdb
+C:\Users\lex.chen\Desktop\0508modbus\Modbus_Connect\Modbus_Connect.dll
+C:\Users\lex.chen\Desktop\0508modbus\Modbus_Connect\Modbus_Connect.pdb
+D:\Thesis_Reference\Main\Servo_motor\Modbus_Connect_0512\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+D:\Thesis_Reference\Main\Servo_motor\Modbus_Connect_0512\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+D:\Thesis_Reference\Main\Servo_motor\Modbus_Connect_0512\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.dll
+D:\Thesis_Reference\Main\Servo_motor\Modbus_Connect_0512\Modbus_Connect\Modbus_Connect\obj\Debug\Modbus_Connect.pdb
+D:\Thesis_Reference\Main\Servo_motor\Modbus_Connect_0512\Modbus_Connect.dll
+D:\Thesis_Reference\Main\Servo_motor\Modbus_Connect_0512\Modbus_Connect.pdb
+D:\Modbus Training\Modbus_Connect_0514\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.AssemblyReference.cache
+D:\Modbus Training\Modbus_Connect_0514\Modbus_Connect\obj\Debug\Modbus_Connect.csproj.CoreCompileInputs.cache
+D:\Modbus Training\Modbus_Connect_0514\Modbus_Connect\obj\Debug\Modbus_Connect.dll
+D:\Modbus Training\Modbus_Connect_0514\Modbus_Connect\obj\Debug\Modbus_Connect.pdb
+D:\Modbus Training\Modbus_Connect.dll
+D:\Modbus Training\Modbus_Connect.pdb
+D:\Modbus Training\Modbus_Connect_0514\bin\Modbus_Connect.dll
+D:\Modbus Training\Modbus_Connect_0514\bin\Modbus_Connect.pdb

@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Modbus Training\\Modbus_Connect_0514\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|d:\\modbus training\\modbus_connect_0514\\modbus_connect\\sinulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\sinulator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|D:\\Modbus Training\\Modbus_Connect_0514\\modbus_connect\\sendreceive_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\sendreceive_info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|D:\\Modbus Training\\Modbus_Connect_0514\\modbus_connect\\sendreceive_cond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\sendreceive_cond.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|D:\\Modbus Training\\Modbus_Connect_0514\\modbus_connect\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\operation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|D:\\Modbus Training\\Modbus_Connect_0514\\modbus_connect\\modbustcp_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\modbustcp_connect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|D:\\Modbus Training\\Modbus_Connect_0514\\modbus_connect\\globalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\globalvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|D:\\Modbus Training\\Modbus_Connect_0514\\modbus_connect\\port_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\port_type.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|D:\\Modbus Training\\Modbus_Connect_0514\\modbus_connect\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A5BF3F1-B295-4EA3-BC39-574352B60FCC}|Modbus_Connect\\Modbus_Connect.csproj|solutionrelative:modbus_connect\\properties\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{269a02dc-6af8-11d3-bdc4-00c04f688e50}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ModbusTCP_Connect.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\ModbusTCP_Connect.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\ModbusTCP_Connect.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\ModbusTCP_Connect.cs",
+              "RelativeToolTip": "Modbus_Connect\\ModbusTCP_Connect.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAMUAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:53:04.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SENDRECEIVE_INFO.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\SENDRECEIVE_INFO.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\SENDRECEIVE_INFO.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\SENDRECEIVE_INFO.cs",
+              "RelativeToolTip": "Modbus_Connect\\SENDRECEIVE_INFO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:01:16.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SINULATOR.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\SINULATOR.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\SINULATOR.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\SINULATOR.cs",
+              "RelativeToolTip": "Modbus_Connect\\SINULATOR.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:58:11.183Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SENDRECEIVE_COND.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\SENDRECEIVE_COND.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\SENDRECEIVE_COND.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\SENDRECEIVE_COND.cs",
+              "RelativeToolTip": "Modbus_Connect\\SENDRECEIVE_COND.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:00:43.95Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PORT_TYPE.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\PORT_TYPE.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\PORT_TYPE.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\PORT_TYPE.cs",
+              "RelativeToolTip": "Modbus_Connect\\PORT_TYPE.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:00:18.128Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Operation.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\Operation.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\Operation.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\Operation.cs",
+              "RelativeToolTip": "Modbus_Connect\\Operation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:57:13.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GlobalVar.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\GlobalVar.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\GlobalVar.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\GlobalVar.cs",
+              "RelativeToolTip": "Modbus_Connect\\GlobalVar.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T00:56:55.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\Properties\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "Modbus_Connect\\Properties\\AssemblyInfo.cs",
+              "ToolTip": "D:\\Modbus Training\\Modbus_Connect_0514\\Modbus_Connect\\Properties\\AssemblyInfo.cs",
+              "RelativeToolTip": "Modbus_Connect\\Properties\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-03T01:07:52.74Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

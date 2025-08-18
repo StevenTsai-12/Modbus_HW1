@@ -1,0 +1,67 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{74AD846F-BA39-4068-9597-5D8A93018C18}|MODBUS_teaching\\MODBUS_teaching.csproj|D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\modbus_teaching\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{74AD846F-BA39-4068-9597-5D8A93018C18}|MODBUS_teaching\\MODBUS_teaching.csproj|solutionrelative:modbus_teaching\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{74AD846F-BA39-4068-9597-5D8A93018C18}|MODBUS_teaching\\MODBUS_teaching.csproj|d:\\thesis_reference\\main\\c# modbus\\modbus_teaching\\modbus_teaching\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{74AD846F-BA39-4068-9597-5D8A93018C18}|MODBUS_teaching\\MODBUS_teaching.csproj|solutionrelative:modbus_teaching\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|MODBUS_teaching||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MODBUS_teaching",
+              "DocumentMoniker": "D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\MODBUS_teaching\\MODBUS_teaching.csproj",
+              "RelativeDocumentMoniker": "MODBUS_teaching\\MODBUS_teaching.csproj",
+              "ToolTip": "D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\MODBUS_teaching\\MODBUS_teaching.csproj",
+              "RelativeToolTip": "MODBUS_teaching\\MODBUS_teaching.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-08-14T06:29:05.382Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\MODBUS_teaching\\Form1.cs",
+              "RelativeDocumentMoniker": "MODBUS_teaching\\Form1.cs",
+              "ToolTip": "D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\MODBUS_teaching\\Form1.cs",
+              "RelativeToolTip": "MODBUS_teaching\\Form1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADkAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:09:07.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [\u8A2D\u8A08]",
+              "DocumentMoniker": "D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\MODBUS_teaching\\Form1.cs",
+              "RelativeDocumentMoniker": "MODBUS_teaching\\Form1.cs",
+              "ToolTip": "D:\\Thesis_Reference\\Main\\C# MODBUS\\MODBUS_teaching\\MODBUS_teaching\\Form1.cs [\u8A2D\u8A08]",
+              "RelativeToolTip": "MODBUS_teaching\\Form1.cs [\u8A2D\u8A08]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T06:09:04.954Z",
+              "EditorCaption": " [\u8A2D\u8A08]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
